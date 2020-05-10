@@ -73,7 +73,7 @@ image:images/gg-ad2.png[2000,2000]
 
 * Red Hat OpenShift console - https://master.{GUID}.example.opentlc.com
 +
-*login:* {USERID}
+*login:* {USERID} ''' user1 '''
 +
 *password:* r3dh4t1!
 +
